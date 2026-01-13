@@ -136,17 +136,23 @@ Use standard NFL team abbreviations (e.g., KC, SF, BAL, BUF, DAL)
 ```
 Returns all running backs averaging 80+ rushing yards per game.
 
+<img width="411" height="247" alt="Screen Shot 2026-01-13 at 5 27 41 PM" src="https://github.com/user-attachments/assets/b46ce77b-9fae-4a75-96f8-be2f08e22d95" />
+
 ### Comparing Quarterbacks
 ```
 /comparestats player1:Josh Allen player2:Lamar Jackson
 ```
 Shows side-by-side comparison of stats and fantasy performance.
 
+<img width="419" height="319" alt="Screen Shot 2026-01-13 at 5 28 38 PM" src="https://github.com/user-attachments/assets/270c2d93-d7c4-48b9-ae42-1e6d05b2f84d" />
+
 ### Checking Weekly Performance
 ```
 /weeklystats player_name:Justin Jefferson week:5
 ```
 Displays stats from Week 5 for Justin Jefferson.
+
+<img width="442" height="336" alt="Screen Shot 2026-01-13 at 5 28 09 PM" src="https://github.com/user-attachments/assets/2486bdf5-d235-4810-9b9b-f060d0ac0570" />
 
 ---
 
