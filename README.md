@@ -156,12 +156,18 @@ Displays stats from Week 5 for Justin Jefferson.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Further Development
 
 Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest new features
 - Submit pull requests
+
+Ideas for further developent (feel free to provide any other ideas!)
+- Advanced metric inclusion
+- Visualization: addition of graphs and charts for more feasible ingestion
+- Mock draft assistance (for fantasy football)
+- Matchup analytics: defensive and offensive team metrics/ratings, weather reports, Vegas betting line data. 
 
 ---
 
