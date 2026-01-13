@@ -1,0 +1,5 @@
+discord.py
+nfl-data-py
+python-dotenv
+rapidfuzz
+pandas
