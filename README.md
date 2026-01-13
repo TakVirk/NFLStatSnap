@@ -144,7 +144,7 @@ Returns all running backs averaging 80+ rushing yards per game.
 ```
 Shows side-by-side comparison of stats and fantasy performance.
 
-<img width="419" height="319" alt="Screen Shot 2026-01-13 at 5 28 38 PM" src="https://github.com/user-attachments/assets/270c2d93-d7c4-48b9-ae42-1e6d05b2f84d" />
+<img width="442" height="336" alt="Screen Shot 2026-01-13 at 5 28 09 PM" src="https://github.com/user-attachments/assets/2486bdf5-d235-4810-9b9b-f060d0ac0570" />
 
 ### Checking Weekly Performance
 ```
@@ -152,7 +152,7 @@ Shows side-by-side comparison of stats and fantasy performance.
 ```
 Displays stats from Week 5 for Justin Jefferson.
 
-<img width="442" height="336" alt="Screen Shot 2026-01-13 at 5 28 09 PM" src="https://github.com/user-attachments/assets/2486bdf5-d235-4810-9b9b-f060d0ac0570" />
+<img width="419" height="319" alt="Screen Shot 2026-01-13 at 5 28 38 PM" src="https://github.com/user-attachments/assets/270c2d93-d7c4-48b9-ae42-1e6d05b2f84d" />
 
 ---
 
